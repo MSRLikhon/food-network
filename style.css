@@ -50,8 +50,9 @@ padding-left: 6%;}
         margin-bottom: 100px;
     }
     .recipie img{width: 80%;
-    padding-top: 15px;
-border-radius: 15px;
+        margin-top: 15px;
+    padding-top: 5px;
+border-radius: 20px;
 }
 footer{background-color: gray;
     text-align: center;
